@@ -1,4 +1,8 @@
-## Hi there 👋
+<img width="1440" height="832" alt="HeaderCover_Cropped" src="https://github.com/user-attachments/assets/3a862727-5ad3-452c-80f6-213d692fbd2b" />
+
+#Zelijah
+
+Your vision, my magic.
 
 <!--
 **jedlsf/jedlsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
