@@ -15,7 +15,10 @@ I work at the intersection of two identities:
 - **[Majikah](https://majikah.solutions)** — my technical practice, focused on cryptography, secure communication, and developer experience.
 - **[Maharlika](https://thezelijah.world/maharlika)** — an original alternate-history Filipino universe I created, spanning 3D art, music, lore, and collectible design.
 
-Before founding Majikah, I spent a decade in the Philippine music industry (including work with Sony Music Philippines, with multiple credits and award nominations), worked in 3D animation and VFX, trained as an electronics engineer, and taught 3D modelling and animation at Meridian International College. That mix of creative and technical experience directly shapes how I design and build products.
+Before founding Majikah, I spent a decade in the Philippine music industry (including work [with Sony Music Philippines](https://www.sonymusic.com.ph/artist/zelijah), with multiple credits and Awit Award nominations), worked in 3D animation and VFX, and taught 3D modelling and animation at Meridian International College. That mix of creative and technical experience directly shapes how I design and build products.
+
+
+[![Spotify](https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/artist/2y064CoJnQj4Nix1RV0Rlu)
 
 ---
 
