@@ -6,6 +6,13 @@
 
 I'm the Founder and Lead Software Engineer of **Majikah Solutions OPC**, a Philippine-registered company building a post-quantum cryptographic security ecosystem. I'm the sole developer across the entire stack — products, marketing site, developer tools, and business infrastructure.
 
+
+[![ZENODO](https://img.shields.io/badge/Zenodo-1682D4?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.21339132)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2795-7747)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jedlsf)
+[![ZELIJAH](https://img.shields.io/badge/Zelijah_Website-750c0c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.thezelijah.world)
+
+
 ---
 
 ## About Me
@@ -18,7 +25,11 @@ I work at the intersection of two identities:
 Before founding Majikah, I spent a decade in the Philippine music industry (including work [with Sony Music Philippines](https://www.sonymusic.com.ph/artist/zelijah), with multiple credits and Awit Award nominations), worked in 3D animation and VFX, and taught 3D modelling and animation at Meridian International College. That mix of creative and technical experience directly shapes how I design and build products.
 
 
-[![Spotify](https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/artist/2y064CoJnQj4Nix1RV0Rlu)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/2y064CoJnQj4Nix1RV0Rlu)
+[![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ZelijahOfficial)
+
+
+	
 
 ---
 
@@ -40,6 +51,12 @@ Before founding Majikah, I spent a decade in the Philippine music industry (incl
 ## Company & Credentials
 
 **[Majikah Solutions OPC](https://www.linkedin.com/company/majikah-solutions)** is a Philippine SEC-registered One Person Corporation (Reg. No. 2026050252036-01), currently **pre-seed**. Transparency matters to me, so I'd rather state that plainly than dress it up.
+
+[![MAJIKAH](https://img.shields.io/badge/Majikah-ea7f05?style=for-the-badge&logo=linkedin&logoColor=white)](https://majikah.solutions/about)
+[![GOOGLECLOUD](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/startup)
+[![REDIS](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/startups)
+[![LINKEDIN](https://img.shields.io/badge/IANA-3c3c43?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.iana.org/assignments/media-types/application/vnd.majikah.bundle)
+
 
 - 📄 IANA media type registration: `application/vnd.majikah.bundle` (`.mjkb`)
 - ☁️ Google Cloud for Startups & Redis for Startups
