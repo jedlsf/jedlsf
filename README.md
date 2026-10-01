@@ -12,6 +12,18 @@ I'm the Founder and Lead Software Engineer of **Majikah Solutions OPC**, a Phili
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jedlsf)
 [![ZELIJAH](https://img.shields.io/badge/Zelijah_Website-750c0c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.thezelijah.world)
 
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jedlsf&show_icons=true&hide_border=true&title_color=ea7f05&text_color=002968&icon_color=ea7f05"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedlsf&layout=compact&hide_border=true&title_color=ea7f05&text_color=002968"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
 
 ---
 
