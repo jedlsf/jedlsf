@@ -51,12 +51,12 @@ Before founding Majikah, I spent a decade in the Philippine music industry (incl
 
 | Product | Description |
 |---|---|
-| **Majik Message** | Real-time messaging with post-quantum-ready encryption |
 | **Majik Signature** | File and text signing with Ed25519 + ML-DSA-87 |
 | **Majik Universal ID (MUID)** | Self-sovereign cryptographic identity, with an embeddable verification widget |
 | **Majik Buwiz** | Offline-first invoicing with signed records |
 | **Majik SLink** | Cryptographic proof of ownership for websites and public profiles |
 | **Majik SDKs** | Open-source TypeScript SDKs under the `@majikah` org |
+| **Majik Message** | Real-time messaging with post-quantum-ready encryption |
 
 ---
 
