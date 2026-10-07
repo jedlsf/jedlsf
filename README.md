@@ -67,10 +67,10 @@ Before founding Majikah, I spent a decade in the Philippine music industry (incl
 [![MAJIKAH](https://img.shields.io/badge/Majikah-ea7f05?style=for-the-badge&logo=linkedin&logoColor=white)](https://majikah.solutions/about)
 [![GOOGLECLOUD](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/startup)
 [![REDIS](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/startups)
-[![LINKEDIN](https://img.shields.io/badge/IANA-3c3c43?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.iana.org/assignments/media-types/application/vnd.majikah.bundle)
+[![IANA](https://img.shields.io/badge/IANA-3c3c43?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.iana.org/assignments/media-types/application/vnd.majikah.bundle)
+[![IANA](https://img.shields.io/badge/IANA-3c3c43?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.iana.org/assignments/media-types/application/vnd.majikah.mjksig)
 
-
-- 📄 IANA media type registration: `application/vnd.majikah.bundle` (`.mjkb`)
+- 📄 IANA media type registration: `application/vnd.majikah.bundle` (`.mjkb`) and `application/vnd.majikah.mjksig` (`.mjksig`)
 - ☁️ Google Cloud for Startups & Redis for Startups
 - 🔒 SecurityScorecard rating: A / 93
 - 📦 14 public npm packages under [`@majikah`](https://www.npmjs.com/org/majikah)
