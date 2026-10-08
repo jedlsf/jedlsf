@@ -67,8 +67,9 @@ Before founding Majikah, I spent a decade in the Philippine music industry (incl
 [![MAJIKAH](https://img.shields.io/badge/Majikah-ea7f05?style=for-the-badge&logo=linkedin&logoColor=white)](https://majikah.solutions/about)
 [![GOOGLECLOUD](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/startup)
 [![REDIS](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/startups)
-[![IANA](https://img.shields.io/badge/IANA_MJKB-3c3c43?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.iana.org/assignments/media-types/application/vnd.majikah.bundle)
 [![IANA](https://img.shields.io/badge/IANA_MJKSIG-3c3c43?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.iana.org/assignments/media-types/application/vnd.majikah.mjksig)
+[![IANA](https://img.shields.io/badge/IANA_MJKSMAP-3c3c43?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.iana.org/assignments/media-types/application/vnd.majikah.mjksmap)
+[![IANA](https://img.shields.io/badge/IANA_MJKB-3c3c43?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.iana.org/assignments/media-types/application/vnd.majikah.bundle)
 
 - 📄 IANA media type registration: `application/vnd.majikah.bundle` (`.mjkb`) and `application/vnd.majikah.mjksig` (`.mjksig`)
 - ☁️ Google Cloud for Startups & Redis for Startups
